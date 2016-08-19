@@ -29,7 +29,7 @@ public class DbConnection {
             ex.getMessage();
         }
 
-        String dburl = "jdbc:mysql://localhost:3306/gov_dev";
+        String dburl = "jdbc:mysql://localhost:3306/gov_dev";// to connect
         String user = "root";
         String pass = "";
 
